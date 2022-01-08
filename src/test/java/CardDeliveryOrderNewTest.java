@@ -2,13 +2,13 @@ import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
-import Utility.Data;
-import Utility.RegistrationInfo;
+import utility.Data;
+import utility.RegistrationInfo;
 
 import java.time.Duration;
 
 import static com.codeborne.selenide.Selenide.*;
-import static Utility.Data.generateDate;
+import static utility.Data.generateDate;
 
 public class CardDeliveryOrderNewTest {
 

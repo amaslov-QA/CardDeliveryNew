@@ -1,4 +1,4 @@
-package Utility;
+package utility;
 
 import com.github.javafaker.Faker;
 import lombok.experimental.UtilityClass;
